@@ -10,3 +10,4 @@ if charToFind in string:
     print(f'{string} contains {charToFind}')
 
 #that's what's good
+ 
