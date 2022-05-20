@@ -25,3 +25,4 @@ def is_year_leap(year: int):
 
 for year in range(2000, 2023):
     print(f'{year} : {is_year_leap(year)}')
+ 
